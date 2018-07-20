@@ -1,4 +1,4 @@
 v=0.1
 build=0.1
-des=twst
-upd=��
+des=Test
+upd=Наерн
