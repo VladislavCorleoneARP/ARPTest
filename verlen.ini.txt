@@ -1,4 +1,4 @@
 v=0.2
-build=0.1
+build=0.2
 des=Test
 upd=Наерн
